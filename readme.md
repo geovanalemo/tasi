@@ -41,4 +41,4 @@ Aqui está uma lista com os comandos Git mais usados:
 - `git remote add origin <URL>` → Adiciona um repositório remoto.  
 - `git remote remove <nome>` → Remove um repositório remoto.  
 
-Se precisar de mais detalhes sobre algum comando, só perguntar! 🚀
+Se precisar de mais detalhes sobre algum comando, só perguntar! 🚀# tasi
